@@ -1,5 +1,5 @@
 {
-  "name": "smart-mirror-web",
+  "name": "mirror-view",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
