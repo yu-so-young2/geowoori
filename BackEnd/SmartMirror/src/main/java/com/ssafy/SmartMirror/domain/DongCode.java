@@ -13,8 +13,12 @@ import javax.persistence.Id;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-public class Brushing {
+public class DongCode {
     @Id
-    private Long memberKey; // 멤버 기본키
-    private String brushingTime; // 양치 시간
+    private String dongCode; // 동코드 (기본키)
+    private String sido_name;
+    private String gugun_name;
+    private String dong_name;
+    private double lng; // 위도
+    private double lat; // 경도
 }
