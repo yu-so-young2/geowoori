@@ -5,12 +5,13 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.util.List;
+
 @Builder
 @AllArgsConstructor
 @Setter
 @Getter
-public class ResponseWidget {
-    private boolean news;
-    private boolean playlist;
-    private boolean calender;
+public class ResponseMemberList {
+    private List<ResponseMember> memberList;
+
 }
