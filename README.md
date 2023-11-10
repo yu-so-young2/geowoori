@@ -1,6 +1,6 @@
 # 우리가족 거우리
 
-<p align="center"><img src="https://github.com/yu-so-young2/geowoori/assets/117627859/44db1c0e-7fdb-4eed-8bff-e34cca0cdb50" width="500"></p>
+<p align="center"><img src="https://github.com/yu-so-young2/geowoori/assets/117627859/b2178a4f-86b8-4f05-a487-df9f97c54911" width="500"></p>
 
 ## 🪞 개요
 화장실에서 사용하는 스마트미러.
@@ -43,7 +43,7 @@ SSAFY 2학기 자율 프로젝트 우수상(2반 1등)🥇
 <br/>
 
 ## ERD
-![스마트미러](https://github.com/yu-so-young2/geowoori/assets/117627859/5c3f39df-a28a-4af3-ad53-14c569ed5d39)
+![스마트미러](https://github.com/yu-so-young2/geowoori/assets/117627859/dfb95436-2467-4365-a68e-6ad5445b4379)
 
 <br/>
 <br/>
