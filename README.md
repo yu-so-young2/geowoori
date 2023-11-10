@@ -1,23 +1,15 @@
 # 우리가족 거우리
+화장실에서 사용하는 스마트미러. 거울과의 상호작용(대화)을 통해 어린이들이 양치, 손씻기 습관을 기를 수 있도록 돕고, 성인에게는 개인별 맞춤 화면을 통한 편의기능을 제공하는 서비스
 
-### 개요
-- - - 
-**"우리가족 거우리"**
-화장실에서 사용하는 거울로, 어린이들에게는 양치, 손 씻기에 대한 좋은 습관
-기르기를 도와주면서 거울과의 상호작용을 통해 화장실에 대한 거부감이 들지 않게 해줍니다.
-성인에게는 개인별 맞춤 화면을 통해 편의 제공과 함께
-아이의 양치와 손 씻기 습관의 과정을 사진과 메세지를 통해 공유합니다.
+- 개발 기간 : 2023.01.09-2023.02.17(6주)
+- 팀 구성 : Frontend 2명, Backend 2명, Embedded 2명
+- 수상 : SSAFY 2학기 자율 프로젝트 우수상(2반 1등)🥇
 
 ### 기술 스택
-- - -
-![기술스택](https://user-images.githubusercontent.com/69035612/219533237-f508e67b-5fde-43b2-a47e-dba72c501d4d.png)
+- Frontend : node.js, React, Redux, Websocket, yarn, npm
+- Backend : Springboot, Spring Data JPA, java, nginx, Jenkins, docker, mariaDB, firebase
+- Embedded : LattePanda, Arduino, python, Websocket
+- AI : Teachable machine, gTTS, gSTT, NLP
 
 ### 아키텍처
-- - -
 ![아키텍처](https://user-images.githubusercontent.com/69035612/219533074-001a4ed0-3205-4fbd-957a-06e29bf01787.png)
-
-### 우리 팀
-- - - 
-![우리팀](https://user-images.githubusercontent.com/69035612/219533664-1803f17f-8f0d-43d2-9dee-4b21bd1193b7.png)
-
-README_v0.1
